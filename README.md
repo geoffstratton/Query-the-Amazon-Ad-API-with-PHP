@@ -67,3 +67,11 @@ Here's some sample XML returned by an ItemLookup:
                 </ItemLink>
 etc.
 ```
+
+License
+---------------
+GNU General Public License v3.0
+                
+Author
+---------------
+Geoff Stratton
